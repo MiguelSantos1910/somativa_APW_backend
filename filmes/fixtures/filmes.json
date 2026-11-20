@@ -1,0 +1,167 @@
+[
+  {
+    "model": "filmes.filme",
+    "pk": "6d0c14e5-a7c0-5856-8aec-bbe5cf5aa509",
+    "fields": {
+      "nome": "O Poderoso Chefão",
+      "genero": "Crime",
+      "sinopse": "Quando o patriarca da família Corleone sofre um atentado, seu filho Michael, que sempre quis distância dos negócios da máfia, é levado a assumir o comando e se transforma num líder implacável.",
+      "imagem": "filmes/o-poderoso-chefao.jpg",
+      "nota": "9.2",
+      "duracao": 175,
+      "ano_lancamento": 1972,
+      "criado_por": null,
+      "favoritado_por": []
+    }
+  },
+  {
+    "model": "filmes.filme",
+    "pk": "6fa285a8-26c5-5ae5-a294-24d3fc4a44e8",
+    "fields": {
+      "nome": "Cidade de Deus",
+      "genero": "Crime",
+      "sinopse": "Buscapé, um jovem que sonha em ser fotógrafo, acompanha por décadas o crescimento do crime na favela carioca Cidade de Deus e a ascensão do perigoso traficante Zé Pequeno.",
+      "imagem": "filmes/cidade-de-deus.jpg",
+      "nota": "8.6",
+      "duracao": 130,
+      "ano_lancamento": 2002,
+      "criado_por": null,
+      "favoritado_por": []
+    }
+  },
+  {
+    "model": "filmes.filme",
+    "pk": "41773561-56dc-5e2b-8df6-b302293e39fe",
+    "fields": {
+      "nome": "A Origem",
+      "genero": "Ficção científica",
+      "sinopse": "Dom Cobb é um ladrão especializado em roubar segredos do subconsciente durante os sonhos. Para recuperar sua vida, ele aceita a missão oposta: implantar uma ideia na mente de um herdeiro bilionário.",
+      "imagem": "filmes/a-origem.jpg",
+      "nota": "8.8",
+      "duracao": 148,
+      "ano_lancamento": 2010,
+      "criado_por": null,
+      "favoritado_por": []
+    }
+  },
+  {
+    "model": "filmes.filme",
+    "pk": "be9bd76a-8396-5278-93fd-3d00c3f37183",
+    "fields": {
+      "nome": "Interestelar",
+      "genero": "Ficção científica",
+      "sinopse": "Com a Terra à beira do colapso, um ex-piloto da NASA deixa os filhos para trás e lidera uma expedição por um buraco de minhoca em busca de um novo lar para a humanidade.",
+      "imagem": "filmes/interestelar.jpg",
+      "nota": "8.7",
+      "duracao": 169,
+      "ano_lancamento": 2014,
+      "criado_por": null,
+      "favoritado_por": []
+    }
+  },
+  {
+    "model": "filmes.filme",
+    "pk": "bab76443-ec3c-5780-b490-b2d490490976",
+    "fields": {
+      "nome": "Parasita",
+      "genero": "Suspense",
+      "sinopse": "A família Kim, que vive desempregada num porão, se infiltra aos poucos no dia a dia dos ricos Park, até que um segredo escondido na mansão muda tudo.",
+      "imagem": "filmes/parasita.jpg",
+      "nota": "8.5",
+      "duracao": 132,
+      "ano_lancamento": 2019,
+      "criado_por": null,
+      "favoritado_por": []
+    }
+  },
+  {
+    "model": "filmes.filme",
+    "pk": "0f10f482-2dd6-5ec0-b4b8-1cc80b68a6c3",
+    "fields": {
+      "nome": "O Senhor dos Anéis: A Sociedade do Anel",
+      "genero": "Fantasia",
+      "sinopse": "O hobbit Frodo herda um anel de poder capaz de dominar a Terra-média e parte, ao lado de oito companheiros, numa jornada perigosa para destruí-lo nas chamas da Montanha da Perdição.",
+      "imagem": "filmes/senhor-dos-aneis-sociedade-do-anel.jpg",
+      "nota": "8.9",
+      "duracao": 178,
+      "ano_lancamento": 2001,
+      "criado_por": null,
+      "favoritado_por": []
+    }
+  },
+  {
+    "model": "filmes.filme",
+    "pk": "2140b55d-43f7-5d0b-be05-d304959da59e",
+    "fields": {
+      "nome": "Homem-Aranha: Um Novo Dia",
+      "genero": "Ação",
+      "sinopse": "Depois que o mundo esqueceu quem ele é, Peter Parker tenta recomeçar sozinho em Nova York, equilibrando a vida comum com a proteção da cidade como o Homem-Aranha.",
+      "imagem": "filmes/homem-aranha-um-novo-dia.jpg",
+      "nota": "8.6",
+      "duracao": 125,
+      "ano_lancamento": 2001,
+      "criado_por": null,
+      "favoritado_por": []
+    }
+  },
+  {
+    "model": "filmes.filme",
+    "pk": "6cafb5a7-3d75-57c0-9702-7dae92b9f06b",
+    "fields": {
+      "nome": "Central do Brasil",
+      "genero": "Drama",
+      "sinopse": "Dora, uma ex-professora que escreve cartas para analfabetos na estação Central do Brasil, acaba atravessando o sertão nordestino com Josué, um menino que perdeu a mãe e procura o pai.",
+      "imagem": "filmes/central-do-brasil.jpg",
+      "nota": "8.0",
+      "duracao": 113,
+      "ano_lancamento": 1998,
+      "criado_por": null,
+      "favoritado_por": []
+    }
+  },
+  {
+    "model": "filmes.filme",
+    "pk": "0f891f57-9e14-5b61-9cf3-4fb054060058",
+    "fields": {
+      "nome": "Batman: O Cavaleiro das Trevas",
+      "genero": "Ação",
+      "sinopse": "Batman, o tenente Gordon e o promotor Harvey Dent unem forças contra o crime organizado de Gotham, até que o Coringa surge para mergulhar a cidade no caos.",
+      "imagem": "filmes/batman-o-cavaleiro-das-trevas.jpg",
+      "nota": "9.0",
+      "duracao": 152,
+      "ano_lancamento": 2008,
+      "criado_por": null,
+      "favoritado_por": []
+    }
+  },
+  {
+    "model": "filmes.filme",
+    "pk": "91ccc59c-ca0c-5b39-8020-6afb3deb94a4",
+    "fields": {
+      "nome": "Mad Max: Estrada da Fúria",
+      "genero": "Ação",
+      "sinopse": "Num deserto pós-apocalíptico, Max se junta à Imperatriz Furiosa, que foge do tirano Immortan Joe levando suas esposas, numa perseguição alucinante pela estrada.",
+      "imagem": "filmes/mad-max-estrada-da-furia.jpg",
+      "nota": "8.1",
+      "duracao": 120,
+      "ano_lancamento": 2015,
+      "criado_por": null,
+      "favoritado_por": []
+    }
+  },
+  {
+    "model": "filmes.filme",
+    "pk": "d46b7ea5-5fb8-4d02-ab73-489754ea6a46",
+    "fields": {
+      "nome": "Senhor dos Anéis: Anéis do Poder",
+      "genero": "Fantasia",
+      "sinopse": "Milhares de anos antes de O Hobbit, elfos, anões e humanos da Terra-média enfrentam o retorno de uma antiga ameaça enquanto os lendários anéis do poder são forjados.",
+      "imagem": "filmes/poster_lotr.jpeg",
+      "nota": "6.8",
+      "duracao": 60,
+      "ano_lancamento": 2022,
+      "criado_por": null,
+      "favoritado_por": []
+    }
+  }
+]
